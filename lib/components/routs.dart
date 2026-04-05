@@ -1,5 +1,4 @@
 class Routs {
-  static const String home = '/';
   static const String numbers = '/numbers';
   static const String familyMembers = '/family_members';
   static const String colors = '/colors';

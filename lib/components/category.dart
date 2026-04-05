@@ -17,16 +17,16 @@ class Category extends StatelessWidget {
       },
       child: Container(
         width: double.infinity,
-        height: 70,
+        height: 100,
         color: color,
         child: Padding(
-          padding: const EdgeInsets.all(20),
+          padding: const EdgeInsets.all(35),
           child: Text(
             title,
             style:
             TextStyle(
               color: Color(0xfff2f0ef),
-              fontSize: 18,
+              fontSize: 22,
               fontWeight: FontWeight.bold,
             ),
           ),
