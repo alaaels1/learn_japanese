@@ -33,7 +33,7 @@ class NumberScreen extends StatelessWidget {
       ),
       body: ListView.builder(
         itemBuilder: (context, index) {
-          return ItemBuilder(rowColor: Color(0xffF9952F), item: Numbers[index]
+          return ItemBuilder(rowColor: Color(0xffF9952F), item: Numbers[index],
           );
         },
         itemCount: Numbers.length,

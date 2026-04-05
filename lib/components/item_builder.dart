@@ -1,10 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import '../models/item_model.dart';
-import 'item_image.dart';
 import 'item_info.dart';
 
 class ItemBuilder extends StatelessWidget {
-  const ItemBuilder({super.key, required this.rowColor, required this.item});
+  const ItemBuilder({super.key, required this.rowColor, required this.item,});
   final Color rowColor;
   final ItemModel item;
 
@@ -16,8 +15,15 @@ class ItemBuilder extends StatelessWidget {
       color: rowColor,
       child: Row(
         children: [
+        Container(
+        width: 100,
+        color: Color(0xffFFFFFF),
+          child: item.photo != null
+              ? Image.asset(item.photo!)
+              : null,
 
-          ImageContainer( photo: item.photo!,),
+
+      ),
           Expanded(child: ItemInfo(item:item, onPressed: item.playSound,)),
 
         ],
@@ -25,3 +31,5 @@ class ItemBuilder extends StatelessWidget {
     );
   }
 }
+
+
