@@ -1,41 +1,58 @@
 # 🇯🇵 Learn Japanese App
 
-A simple and clean mobile application built with Flutter to help beginners learn basic Japanese language concepts in an easy and interactive way.
+<p align="center">
+  <b>A modern Flutter app for learning basic Japanese vocabulary in a simple and interactive way.</b>
+</p>
 
-## 📦 Download APK
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-2.x-blue?logo=dart"/>
+  <img src="https://img.shields.io/badge/Platform-Android-green?logo=android"/>
+  <img src="https://img.shields.io/github/stars/alaaels1/learn_japanese?style=social"/>
+</p>
+
+---
+
+## 🚀 Overview
+
+**Learn Japanese App** is designed to help beginners take their first step into the Japanese language through a clean UI and simple learning experience.
+
+The app focuses on delivering vocabulary in an easy, distraction-free environment.
+
+---
+
+## 📦 Download
 
 <p align="center">
   <a href="https://github.com/alaaels1/learn_japanese/releases/latest">
-    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" />
+    <img src="https://img.shields.io/badge/Download Latest APK-000?style=for-the-badge&logo=android" />
   </a>
 </p>
 
 ---
 
-## ✨ Features
+## 🎯 Key Features
 
-- 📚 Learn basic Japanese vocabulary
-
----
-
-## 🛠️ Built With
-
-- Flutter
-- Dart
+- 📚 Basic Japanese vocabulary learning  
+- 🎨 Clean and minimal UI  
+- ⚡ Smooth and fast performance  
+- 👶 Beginner-focused experience  
 
 ---
 
-## 🚀 Getting Started
+## 📱 App Preview
 
-### Prerequisites
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alaaels1/learn_japanese/main/assets/screenshots/img.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/alaaels1/learn_japanese/main/assets/screenshots/img_1.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/alaaels1/learn_japanese/main/assets/screenshots/img_2.png" width="180"/>
+</p>
 
-- Flutter SDK installed
-- Android Studio or VS Code
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alaaels1/learn_japanese/main/assets/screenshots/img_3.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/alaaels1/learn_japanese/main/assets/screenshots/img_4.png" width="180"/>
+</p>
 
-### Installation
+---
 
-```bash
-git clone https://github.com/alaaels1/learn_japanese.git
-cd learn_japanese
-flutter pub get
-flutter run
+## 🏗️ Project Structure
