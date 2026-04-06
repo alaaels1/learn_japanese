@@ -14,6 +14,7 @@ class ItemBuilder extends StatelessWidget {
       width: double.infinity,
       color: rowColor,
       child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
         Container(
         width: 100,
@@ -24,7 +25,8 @@ class ItemBuilder extends StatelessWidget {
 
 
       ),
-          Expanded(child: ItemInfo(item:item, onPressed: item.playSound,)),
+          Expanded(
+              child: ItemInfo(item:item, onPressed: item.playSound,)),
 
         ],
       ),
