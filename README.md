@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/alaaels1/learn_japanese/releases/latest/download/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-APK-success?logo=android&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-2.x-blue?logo=dart"/>
   <img src="https://img.shields.io/badge/Platform-Android-green?logo=android"/>
@@ -18,18 +24,6 @@
 **Learn Japanese App** is designed to help beginners take their first step into the Japanese language through a clean UI and simple learning experience.
 
 The app focuses on delivering vocabulary in an easy, distraction-free environment.
-
----
-
-## 📦 Download
-
-<p align="center">
-  <a href="https://github.com/alaaels1/learn_japanese/releases/latest">
-    <img src="https://img.shields.io/badge/Download Latest APK-000?style=for-the-badge&logo=android" />
-  </a>
-</p>
-
----
 
 ## 🎯 Key Features
 
