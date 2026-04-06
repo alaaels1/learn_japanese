@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alaaels1/learn_japanese/releases/latest/download/app-release.apk">
+  <a href="https://github.com/alaaels1/learn_japanese/releases/download/v1.0.0/learning_japanese.apk">
     <img src="https://img.shields.io/badge/Download-APK-success?logo=android&style=for-the-badge"/>
   </a>
 </p>
